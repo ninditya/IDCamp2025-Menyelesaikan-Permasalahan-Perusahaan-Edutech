@@ -1,0 +1,5 @@
+Segmen,Label_Prioritas,Prioritas_Order,Jumlah_Mhs,Dropout_Rate_Persen,Target_Rate_Persen,Gap_Poin,Est_Diselamatkan,Dropout_Rate_Label,Target_Rate_Label,Est_Diselamatkan_Label,Warna_Hex
+P1: Sem 1 < 5 MK,Intervensi Akademik Sem 1,1,1323,81.0,30.0,51.0,676,81.0%,30.0%,~676 mhs,#E74C3C
+P2: UKT/Tunggakan,Intervensi Finansial Dini,2,673,82.3,40.0,42.3,285,82.3%,40.0%,~285 mhs,#E74C3C
+P3: Prodi Berisiko,Program Khusus Prodi Berisiko,3,582,67.2,40.0,27.2,158,67.2%,40.0%,~158 mhs,#E67E22
+P4: Usia > 25 Thn,Program Mahasiswa Dewasa,4,1161,62.7,45.0,17.7,206,62.7%,45.0%,~206 mhs,#F39C12
