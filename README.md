@@ -172,9 +172,7 @@ Screenshot dashboard tersedia di folder `ninditya_sna-dashboard/`.
 
 ## Menjalankan Sistem Machine Learning
 
-**Akses Online (Streamlit Community Cloud):**
-
-*(akan diperbarui setelah di-deploy ke Streamlit Community Cloud)*
+**Akses Online (Streamlit Community Cloud):** https://idcamp2025-menyelesaikan-permasalahan-perusahaan-edutech-lh9vp.streamlit.app/ 
 
 **Atau jalankan secara lokal:**
 
